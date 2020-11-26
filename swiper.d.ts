@@ -46,5 +46,3 @@ export {
   Virtual,
   Zoom,
 };
-
-declare module 'swiper/swiper.esm';
